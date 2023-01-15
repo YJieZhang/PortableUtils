@@ -1,1 +1,4 @@
 gdb filter=lfs diff=lfs merge=lfs -text
+gdb_aarch64 filter=lfs diff=lfs merge=lfs -text
+gdb_aarch64_striped filter=lfs diff=lfs merge=lfs -text
+gdb_x86_striped filter=lfs diff=lfs merge=lfs -text
